@@ -6,5 +6,5 @@
 
 #3D Convolution
 >* Explained in details here: https://towardsdatascience.com/step-by-step-implementation-3d-convolutional-neural-network-in-keras-12efbdd7b130
->* Library used: scipu.ndimage.convolve https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.convolve.html
+>* Library used: scipy.ndimage.convolve https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.convolve.html
 
